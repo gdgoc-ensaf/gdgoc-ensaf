@@ -8,7 +8,7 @@
 
   <h1>Google Developer Groups on Campus ENSA Fez</h1>
   <!-- Logo -->
-  <img src="gdg/logo.jpeg" alt="GDG on Campus ENSA Fez Logo" width="110" />
+  <img src="gdg/logo.png" alt="GDG on Campus ENSA Fez Logo" width="110" />
   <p><em>Bridging the gap between academic theory and industry practice.</em></p>
 
   <p align="center">
